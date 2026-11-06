@@ -4,37 +4,37 @@
     "tournament": {
       "ru": {
         "version": "1.6",
-        "url": "https://github.com/Redynine/battlebound-maps/releases/download/tournament-1.6/Battlebound-Tournament-RU-1.0.0.zip",
-        "sha256": "50B68A050D129E0EDB5A3B249D9AED0064366CE1E1054BE1FA1CC396B2A84171",
+        "url": "https://github.com/Redynine/Battlebound-Maps/releases/download/tournament/Battlebound_Tournament_1.6_RU.zip",
+        "sha256": "50b68a050d129e0edb5a3b249d9aed0064366ce1e1054be1fa1cc396b2a84171",
         "folder_name": "Battlebound Tournament RU",
         "min_core_version": "1.5",
-        "download_page": "https://github.com/Redynine/battlebound-maps/releases/tag/tournament-1.6"
+        "download_page": "https://github.com/Redynine/Battlebound-Maps/releases/tag/tournament"
       },
       "en": {
         "version": "1.6",
-        "url": "https://github.com/Redynine/battlebound-maps/releases/download/tournament-1.6/Battlebound-Tournament-EN-1.0.0.zip",
-        "sha256": "1D90955E11DF4ED8048C5E8EE60702AEDFCA4126B63C45959933A61EF1A112C6",
+        "url": "https://github.com/Redynine/Battlebound-Maps/releases/download/tournament/Battlebound_Tournament_1.6_EN.zip",
+        "sha256": "1d90955e11df4ed8048c5e8ee60702aedfca4126b63c45959933a61ef1a112c6",
         "folder_name": "Battlebound Tournament EN",
         "min_core_version": "1.5",
-        "download_page": "https://github.com/Redynine/battlebound-maps/releases/tag/tournament-1.6"
+        "download_page": "https://github.com/Redynine/Battlebound-Maps/releases/tag/tournament"
       }
     },
     "capture_the_flag": {
       "ru": {
         "version": "1.2",
-        "url": "https://github.com/Redynine/battlebound-maps/releases/download/capture_the_flag-1.2/Capture-the-Flag-RU-1.0.0.zip",
-        "sha256": "50B68A050D129E0EDB5A3B249D9AED0064366CE1E1054BE1FA1CC396B2A84171",
+        "url": "https://github.com/Redynine/Battlebound-Maps/releases/download/capture_the_flag/Battlebound_Capture_the_Flag_1.2_RU.zip",
+        "sha256": "135aa843835fc5e19f9b397b56d05e19691efd9a9247dc4d20fa23c8e57fb15d",
         "folder_name": "Battlebound Capture the Flag RU",
         "min_core_version": "1.5",
-        "download_page": "https://github.com/Redynine/battlebound-maps/releases/tag/capture_the_flag-1.2"
+        "download_page": "https://github.com/Redynine/Battlebound-Maps/releases/tag/capture_the_flag"
       },
       "en": {
         "version": "1.2",
-        "url": "https://github.com/Redynine/battlebound-maps/releases/download/capture_the_flag-1.2/Capture-the-Flagt-EN-1.0.0.zip",
-        "sha256": "1D90955E11DF4ED8048C5E8EE60702AEDFCA4126B63C45959933A61EF1A112C6",
+        "url": "https://github.com/Redynine/Battlebound-Maps/releases/download/capture_the_flag/Battlebound_Capture_the_Flag_1.2_EN.zip",
+        "sha256": "8d12129b887441b37d3cc55a13225b8e81e940c78541ca1e1cad96acc4162c1f",
         "folder_name": "Battlebound Capture the Flag EN",
         "min_core_version": "1.5",
-        "download_page": "https://github.com/Redynine/battlebound-maps/releases/tag/capture_the_flag-1.2"
+        "download_page": "https://github.com/Redynine/Battlebound-Maps/releases/tag/capture_the_flag"
       }
     }
   }
