@@ -36,6 +36,24 @@
         "min_core_version": "1.5",
         "download_page": "https://github.com/Redynine/Battlebound-Maps/releases/tag/capture_the_flag"
       }
-    }
+    },
+    "the_slaughter": {
+  "ru": {
+    "version": "1.0",
+    "url": "https://github.com/Redynine/Battlebound-Maps/releases/download/the_slaughter/Battlebound_The_Slaughter_1.0_RU.zip",
+    "sha256": "35CAC69F9D8D18CBAA34B9DF28B5DC58D1FF9F46F5D7AF31959B26CB384911A9",
+    "folder_name": "Battlebound The Slaughter RU",
+    "min_core_version": "1.6",
+    "download_page": "https://github.com/Redynine/Battlebound-Maps/releases/tag/the_slaughter"
+  },
+  "en": {
+    "version": "1.0",
+    "url": "https://github.com/Redynine/Battlebound-Maps/releases/download/the_slaughter/Battlebound_The_Slaughter_1.0_EN.zip",
+    "sha256": "ХЕШ_EN",
+    "folder_name": "Battlebound The Slaughter EN",
+    "min_core_version": "1.6",
+    "download_page": "https://github.com/Redynine/Battlebound-Maps/releases/tag/the_slaughter"
+  }
+}
   }
 }
